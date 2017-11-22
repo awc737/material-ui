@@ -43,13 +43,13 @@ Here is a quick example to get you started, it's all you need:
 ```jsx
 import React from 'react';
 import { render } from 'react-dom';
-import Button from 'material-ui/Button';
+import RaisedButton from 'material-ui/RaisedButton';
 
 function App() {
   return (
-    <Button>
+    <RaisedButton>
       Hello World
-    </Button>
+    </RaisedButton>
   );
 }
 
